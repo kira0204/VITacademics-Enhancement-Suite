@@ -58,3 +58,7 @@ As Extension for Mozilla Firefox is based on chrome, you should follow this tuto
   1. Go to `about:flags` and tick the `Enable extension developer features` checkbox.
   2. Choose `Load extension` on the extensions menu and select your extensions folder.
   3. Any time you make changes to the extension, you must go back to the `Menu->Extensions` page, go to the extensions settings and `Reload` the extension.
+
+## TODO
+
+  1. Update for Vtop-beta
